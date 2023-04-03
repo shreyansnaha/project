@@ -1,0 +1,21 @@
+.heading{
+    width: 100px;
+    text-align: left;
+}
+
+.heading,h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px white;
+}
+
+#start{
+    font-size: 24px;
+}
+
+#start,#status{
+    font-size: 22px;
+}
